@@ -6,6 +6,7 @@ public class test {
 		System.out.print("OK");
 		System.out.print("OK2");
 		System.out.print("OK3");
+		System.out.print("OK4");
 		System.out.print("OK5");
 	}
 
