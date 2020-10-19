@@ -9,6 +9,7 @@ public class test {
 		System.out.print("OK4");
 		System.out.print("OK5");
 		String a = "ABC";
+		String b = "DEF";
 	}
 
 }
