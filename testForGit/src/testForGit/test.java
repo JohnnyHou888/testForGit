@@ -10,6 +10,7 @@ public class test {
 		System.out.print("OK5");
 		String b = "ABC";
 		String a = "DEF";
+		String c = "GHI";
 	}
 
 }
